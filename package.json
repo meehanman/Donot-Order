@@ -1,0 +1,23 @@
+{
+  "name": "donot-order",
+  "version": "1.0.0",
+  "description": "Crude and fast development. Possible upgrades reccomended is security and a database. This currently works fine.",
+  "main": "doughtnuts.js",
+  "dependencies": {
+    "restify": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meehanman/Donot-Order.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meehanman/Donot-Order/issues"
+  },
+  "homepage": "https://github.com/meehanman/Donot-Order#readme"
+}
