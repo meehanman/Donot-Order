@@ -1,0 +1,44 @@
+body {
+	background: #20262E;
+	padding: 20px;
+	font-family: Helvetica;
+	text-align: center;
+  }
+  
+  #content {
+	background: #fff;
+	padding: 20px;
+	font-size: 12px;
+	text-align: center;
+	transition: all 0.2s;
+	margin: 0 auto;
+	width: 600px;
+  }
+  
+  input, select {
+	width: 300px;
+	margin:10px;
+	padding:10px;
+	text-align: center;
+  }
+
+  img{
+	width: 80%;
+	margin:20px;
+	background-color:#20262E;
+  }
+
+  button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor:pointer;
+  }
+  button:disabled{
+	  background-color: #bfbfbf;
+  }
